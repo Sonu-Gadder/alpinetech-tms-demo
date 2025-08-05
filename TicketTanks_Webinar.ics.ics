@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250805T101739Z
+UID:1754388743735-16477@ical.marudot.com
+DTSTART;TZID=Asia/Kolkata:20250807T150000
+DTEND;TZID=Asia/Kolkata:20250807T160000
+SUMMARY:Corporate Efficiency Meets Affordability with TicketTanks | Live on LinkedIn on 7th Aug at 3:00 PM
+URL:https://www.linkedin.com/events/corporatesefficiencymeetsafford7358432188452777988/theater/
+DESCRIPTION:Webinar Reminder – Just 2 Days to Go!\n\nCorporate Efficiency Meets Affordability with TicketTanks\n\n7th August | 3:00 – 4:00 PM IST\n\nSpeaker: Vineet Pandey\n\nJoin us for this impactful LinkedIn Live session hosted by Alpinetech Business Solutions Pvt. Ltd.\, where we reveal how AI-powered tools like TicketTanks can help you:\n\n✅ Improve internal support operations\n✅ Reduce IT & workflow costs\n✅ Boost efficiency across departments\n✅ Automate with intelligence\, not complexity\n\nFree to attend | Includes live demo & Q&A\n\nJoin live on LinkedIn on 7th Aug at 3 PM:\n\nDon’t forget to set a reminder & share with your network!
+LOCATION:LinkedIn Live
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Corporate Efficiency Meets Affordability with TicketTanks | Live on LinkedIn on 7th Aug at 3:00 PM
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Corporate Efficiency Meets Affordability with TicketTanks | Live on LinkedIn on 7th Aug at 3:00 PM
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
